@@ -2,7 +2,7 @@
 Repo for our Django Project Deployment  
 # SETUP
 # 1-install anaconda and Env variable
-# 2-create vertual Env 
+# 2-create virtual Env 
   conda create --name LibraryEnv
 # 3-activate Env  
  conda activate LibraryEnv
