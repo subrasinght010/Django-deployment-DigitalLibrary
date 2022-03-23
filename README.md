@@ -1,6 +1,6 @@
 # Django-deployment-DigitalLibrary
 Repo for our Django Project Deployment  
-SETUP
+# SETUP
 1-install anaconda and Env variable
 2-create vertual Env 
   conda create --name LibraryEnv
