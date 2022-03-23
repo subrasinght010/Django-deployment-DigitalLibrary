@@ -9,6 +9,6 @@ SETUP
  or can deactivate after use
  conda deactivate LibraryEnv
 4-clone repo from terminal/command prompt
-git clone (link)
+ git clone (link)
 link-https://github.com/subrasinght010/Django-deployment-DigitalLibrary.git
 
