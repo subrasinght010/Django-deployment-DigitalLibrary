@@ -1,9 +1,7 @@
 # Django-deployment-DigitalLibrary
-<==============================================================>
 Repo for our Django Project Deployment  
 <=============================================>
                 SETUP
-<=============================================>
 1-install anaconda and Env variable
 
 2-create vertual Env 
@@ -16,4 +14,4 @@ Repo for our Django Project Deployment
 <============================================>
 4-clone repo from terminal/command prompt
 git clone https://github.com/subrasinght010/Django-deployment-DigitalLibrary.git
-<==============================================================================>
+
