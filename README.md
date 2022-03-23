@@ -6,9 +6,8 @@ Repo for our Django Project Deployment
   conda create --name LibraryEnv
 # 3-activate Env  
  conda activate LibraryEnv
- or can deactivate after use
+ # or can deactivate after use
  conda deactivate LibraryEnv
 # 4-clone repo from terminal/command prompt
- git clone (link)
-link-https://github.com/subrasinght010/Django-deployment-DigitalLibrary.git
+ git clone https://github.com/subrasinght010/Django-deployment-DigitalLibrary.git
 
