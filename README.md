@@ -4,7 +4,7 @@ Repo for our Django Project Deployment
 # 1-install anaconda and Env variable
 # 2-create virtual Env 
   conda create --name LibraryEnv django
-  upgrade django by running command
+ # upgrade django by running command
   pip install Django==4.0.3
 # 3-activate Env  
  conda activate LibraryEnv
