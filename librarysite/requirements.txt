@@ -1,0 +1,8 @@
+Django==4.0.6
+django_countries==7.3.2
+python-decouple==3.6
+stripe==3.5.0
+django-bootstrap-v5==1.0.11
+django-crispy-forms==1.14.0
+django-autoslug==1.9.8
+Pillow==9.2.0
